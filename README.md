@@ -1,7 +1,7 @@
 # -sklearn-
 数据竞赛sklearn分类代码通用模板
 
-参考数据竞赛：Datafountain，返乡发展人群预测，二分类问题，auc，https://www.datafountain.cn/competitions/581
+参考数据竞赛：Datafountain，返乡发展人群预测，二分类问题，auc，以下方案能达到top10%以内，可优化点还较多，仅提供通用化模板，https://www.datafountain.cn/competitions/581
 
 数据竞赛通用思想：  
 
